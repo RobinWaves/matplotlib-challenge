@@ -17,3 +17,4 @@ MatPlotLib, Pandas, NumPy and SciPy libraries are used to generate:
 - Line plot for a mouse treated with Capomulin
 - Scatter plot for Capomulin treatment
 - Scatter plot for Capomulin treatment with linear model added
+***
